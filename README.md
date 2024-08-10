@@ -17,7 +17,7 @@ Terra dos pets
 
 # 3. Diagrama de casos de uso
 
-![diagrama de classes terra dos pets]()
+![diagrama de classes terra dos pets](https://raw.githubusercontent.com/rodrigoo034/Rodrigo_Nasciemento_projetoX/main/imagens/diagrama%20de%20classes%20terra%20dos%20pets.png?token=GHSAT0AAAAAACVX3B3C6XN5O6UIYJGBM5BKZVX7FZQ)
 
 # 4. Principais telas do sistema
 
