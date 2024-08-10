@@ -1,6 +1,6 @@
 # Rodrigo_Nasciemento_ProjetoX
 Aulas de engenharia de software 
-
+COLOCAR FOTO NO GITHUB
 
 # 1. Descrição do sistema
 
@@ -15,7 +15,7 @@ Terra dos pets
 
 Colocara aqui o diagrama de banco...
 
-![]()
+![descriçao da imagem](link da imagem)
 
 # 3. Diagrama de casos de uso
 
