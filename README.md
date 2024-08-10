@@ -14,7 +14,7 @@ Terra dos pets
 # 2. Diagrama do banco de dados 
 
 
-![diagrama terra dos pets](link da imagem)
+![]()
 
 # 3. Diagrama de casos de uso
 
