@@ -1,6 +1,5 @@
 # Rodrigo_Nasciemento_ProjetoX
 Aulas de engenharia de software 
-COLOCAR FOTO NO GITHUB
 
 # 1. Descrição do sistema
 
