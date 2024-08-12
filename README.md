@@ -11,13 +11,12 @@ Terra dos pets
 
 # 2. Diagrama do banco de dados 
 
-![https://github.com/rodrigoo034/Rodrigo_Nasciemento_projetoX/blob/main/imagens/der.png](https://github.com/rodrigoo034/Rodrigo_Nasciemento_projetoX/blob/main/imagens/der.png)
+![Diagrama do banco de dados ](https://github.com/rodrigoo034/Rodrigo_Nasciemento_projetoX/blob/main/imagens/der.png)
 
 # 3. Diagrama de casos de uso
 
-O diagrama abaixo será atualizado:
 
-![https://github.com/rodrigoo034/Rodrigo_Nasciemento_projetoX/blob/main/imagens/pets.png](https://github.com/rodrigoo034/Rodrigo_Nasciemento_projetoX/blob/main/imagens/pets.png)
+![Diagrama de casos de uso]()
 
 
 # 4. Principais telas do sistema
