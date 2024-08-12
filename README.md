@@ -16,7 +16,7 @@ Terra dos pets
 # 3. Diagrama de casos de uso
 
 
-![Diagrama de casos de uso]()
+![Diagrama de casos de uso](https://github.com/rodrigoo034/Rodrigo_Nasciemento_projetoX/blob/main/imagens/pets1.png)
 
 
 # 4. Principais telas do sistema
