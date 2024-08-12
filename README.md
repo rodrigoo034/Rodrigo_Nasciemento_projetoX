@@ -15,7 +15,7 @@ Terra dos pets
 ![diagrama terra dos pets](https://raw.githubusercontent.com/rodrigoo034/Rodrigo_Nasciemento_projetoX/main/imagens/diagrama%20terra%20dos%20pets.png?token=GHSAT0AAAAAACVX3B3D7JRZZ6VMGHHH2VVQZVX7G2A)
 
 
-[https://github.com/rodrigoo034/Rodrigo_Nasciemento_projetoX/blob/main/imagens/der.png?raw=true](https://github.com/rodrigoo034/Rodrigo_Nasciemento_projetoX/blob/main/imagens/der.png?raw=true)
+![https://github.com/rodrigoo034/Rodrigo_Nasciemento_projetoX/blob/main/imagens/der.png](https://github.com/rodrigoo034/Rodrigo_Nasciemento_projetoX/blob/main/imagens/der.png)
 
 # 3. Diagrama de casos de uso
 
