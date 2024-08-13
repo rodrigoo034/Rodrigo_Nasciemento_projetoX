@@ -89,11 +89,91 @@ Terra dos pets
 
 Tabela Clientes:
 
-id_cliente (PK): INT, auto-increment
-nome : VARCHAR(100)
-telefone : VARCHAR(20)
-email : VARCHAR(100)
-endereco : VARCHAR(150)
+
+```mermaid
+erDiagram
+    CLIENTES {
+        int id_cliente PK
+        string nome
+        string telefone
+        string email
+        string endereco
+    }
+    
+    ANIMAIS {
+        int id_animal PK
+        int id_cliente FK
+        string nome
+        enum especie
+        string raca
+        int idade
+        text condicao
+        string tipo_racao
+        text habitos
+    }
+    
+    VETERINARIOS {
+        int id_veterinario PK
+        string nome
+        string especialidade
+    }
+    
+    ATENDENTES {
+        int id_atendente PK
+        string nome
+    }
+    
+    CONSULTAS {
+        int id_consulta PK
+        int id_animal FK
+        int id_veterinario FK
+        datetime data_consulta
+        time hora_inicio
+        time hora_fim
+        text motivo
+        text diagnostico
+        text tratamento
+        text receita
+    }
+    
+    PRONTUARIOS {
+        int id_prontuario PK
+        int id_animal FK
+        int id_consulta FK
+        text observacoes
+    }
+    
+    AGENDAMENTOS {
+        int id_agendamento PK
+        int id_animal FK
+        int id_veterinario FK
+        datetime data_agendamento
+        time hora
+        enum status
+    }
+    
+    FILA_ESPERA {
+        int id_fila PK
+        int id_animal FK
+        int id_veterinario FK
+        datetime data_entrada
+        time hora_entrada
+        enum prioridade
+        enum status
+    }
+    
+    CLIENTES ||--o{ ANIMAIS : possui
+    ANIMAIS ||--o{ CONSULTAS : possui
+    ANIMAIS ||--o{ PRONTUARIOS : possui
+    ANIMAIS ||--o{ AGENDAMENTOS : agenda
+    ANIMAIS ||--o{ FILA_ESPERA : entra_em
+    VETERINARIOS ||--o{ CONSULTAS : realiza
+    VETERINARIOS ||--o{ AGENDAMENTOS : participa
+    VETERINARIOS ||--o{ FILA_ESPERA : participa
+    CONSULTAS ||--o{ PRONTUARIOS : gera
+
+```
+
 
 ![Diagrama do banco de dados ](https://github.com/rodrigoo034/Rodrigo_Nasciemento_projetoX/blob/main/imagens/der.png)
 
