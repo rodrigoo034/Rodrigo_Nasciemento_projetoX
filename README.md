@@ -84,23 +84,33 @@ Autor: Rodrigo do Nascimento
 Terra dos pets
 
 
-
+---
 # 2. Diagrama do banco de dados 
+
+Tabela Clientes:
+
+id_cliente (PK): INT, auto-increment
+nome : VARCHAR(100)
+telefone : VARCHAR(20)
+email : VARCHAR(100)
+endereco : VARCHAR(150)
 
 ![Diagrama do banco de dados ](https://github.com/rodrigoo034/Rodrigo_Nasciemento_projetoX/blob/main/imagens/der.png)
 
+---
 # 3. Diagrama de casos de uso
 
 
 ![Diagrama de casos de uso](https://github.com/rodrigoo034/Rodrigo_Nasciemento_projetoX/blob/main/imagens/pets1.png)
 
-
+---
 # 4. Principais telas do sistema
 
 Colocar aqui a figura das telas do sistema
 
 ![]()
 
+---
 # 5. Arquitetura do sitema
 
 Incluir diagrama do sistema
