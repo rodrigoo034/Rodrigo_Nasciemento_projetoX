@@ -52,6 +52,8 @@ O veterinário deve realizar uma entrevista com o dono do animal.
 
 
 O resultado da entrevista deve ir para um formulário.
+
+
 O veterinário deverá examinar o animal e anotar em prontuário(ficha) suas observações.
 
 
