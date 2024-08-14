@@ -174,7 +174,6 @@ erDiagram
 
 ```
 
-
 ![Diagrama do banco de dados ](https://github.com/rodrigoo034/Rodrigo_Nasciemento_projetoX/blob/main/imagens/der.png)
 
 ---
