@@ -193,6 +193,6 @@ Colocar aqui a figura das telas do sistema
 ---
 # 5. Arquitetura do sitema
 
-Incluir diagrama do sistema
+Diagrama do sistema
 
 ![diagrama do sistema](https://github.com/rodrigoo034/Rodrigo_Nasciemento_projetoX/blob/main/imagens/Arquitetura%20do%20sitema.jpeg)
