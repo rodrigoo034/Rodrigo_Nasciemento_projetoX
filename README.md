@@ -186,9 +186,34 @@ erDiagram
 ---
 # 4. Principais telas do sistema
 
-Colocar aqui a figura das telas do sistema
+Telas do sistema
 
-![]()
+![CADASTROS](https://github.com/rodrigoo034/Rodrigo_Nasciemento_projetoX/blob/main/imagens/CADASTROS.jpeg)
+
+
+![AGENDAMENTOS](https://github.com/rodrigoo034/Rodrigo_Nasciemento_projetoX/blob/main/imagens/AGENDAMENTOS.jpeg)
+
+
+![ANIMAIS](https://github.com/rodrigoo034/Rodrigo_Nasciemento_projetoX/blob/main/imagens/ANIMAIS.jpeg)
+
+
+![ATENDENTES](https://github.com/rodrigoo034/Rodrigo_Nasciemento_projetoX/blob/main/imagens/ATENDENTES.jpeg)
+
+
+![CLIENTES](https://github.com/rodrigoo034/Rodrigo_Nasciemento_projetoX/blob/main/imagens/CLIENTES.jpeg)
+
+
+![CONSULTAS](https://github.com/rodrigoo034/Rodrigo_Nasciemento_projetoX/blob/main/imagens/CONSULTAS.jpeg)
+
+
+![FILAS_ESPERA](https://github.com/rodrigoo034/Rodrigo_Nasciemento_projetoX/blob/main/imagens/FILAS_ESPERA.jpeg)
+
+
+![PRONTUARIOS](https://github.com/rodrigoo034/Rodrigo_Nasciemento_projetoX/blob/main/imagens/PRONTUARIOS.jpeg)
+
+
+![VETERINARIOS](https://github.com/rodrigoo034/Rodrigo_Nasciemento_projetoX/blob/main/imagens/VETERINARIOS.jpeg)
+
 
 ---
 # 5. Arquitetura do sitema
