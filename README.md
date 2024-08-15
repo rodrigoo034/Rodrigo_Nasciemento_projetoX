@@ -195,4 +195,4 @@ Colocar aqui a figura das telas do sistema
 
 Incluir diagrama do sistema
 
-![]()
+![diagrama do sistema](https://github.com/rodrigoo034/Rodrigo_Nasciemento_projetoX/blob/main/imagens/Arquitetura%20do%20sitema.jpeg)
