@@ -179,14 +179,14 @@ erDiagram
 ---
 # 3. Diagrama de casos de uso
 
+![Diagrama de casos de uso](https://github.com/rodrigoo034/Rodrigo_Nasciemento_projetoX/blob/main/imagens/casos%20de%20uso.png)
 
 ![Diagrama de casos de uso](https://github.com/rodrigoo034/Rodrigo_Nasciemento_projetoX/blob/main/imagens/pets1.png)
 
 ---
 # 4. Principais telas do sistema
 
-Colocar aqui a figura das telas do sistemaa
-asfsadfsdf
+Colocar aqui a figura das telas do sistema
 
 ![]()
 
